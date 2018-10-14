@@ -288,7 +288,7 @@
 				CODE_SIGN_ENTITLEMENTS = MetalOfflineRecording/MetalOfflineRecording.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 5XU8G72NQS;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = MetalOfflineRecording/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -308,7 +308,7 @@
 				CODE_SIGN_ENTITLEMENTS = MetalOfflineRecording/MetalOfflineRecording.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 5XU8G72NQS;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = MetalOfflineRecording/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
